@@ -54,6 +54,12 @@ button:hover {
     margin-top: 30px;
 }
 
+.caixa-menor {
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+
 .lupa {
     height: 20px;
 }
@@ -65,12 +71,17 @@ h2 {
 
 .temp {
     color: white;
+    margin-top: 30px;
 }
 
-.descricap {
+.descricao {
     color: white;
+    margin-left: 20px;
+    text-transform: capitalize;
+    
 }
 
 .umidade {
     color: white;
+    margin-top: 30px;
 }
